@@ -24,6 +24,8 @@
             circle2.PrintShape();
             triangle1.PrintShape();
             triangle2.PrintShape();
+            Console.ReadKey();
+            
 
 
         }
